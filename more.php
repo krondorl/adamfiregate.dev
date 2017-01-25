@@ -20,11 +20,12 @@
       <div class="group">
         <img class="profile-pic" src="/img/adam-2016-januar-1x.jpg " alt="Adam profile picture">
         <p><strong>TLDR:</strong> I am an electronic musician from Europe, Hungary, Budapest. I began making tracks in 2001.</p>
+        <p><strong>Follow me</strong> at these channels:</p>
         <p><a href="//www.youtube.com/channel/UCsUeKk67ka83pt4BsjVnJoQ" target="_blank">Youtube</a> | <a href="//www.beatport.com/artist/adam-firegate/142173/tracks" target="_blank">Beatport</a> | <a href="//soundcloud.com/adamfiregate/" target="_blank">Soundcloud</a> | <a href="//www.mixcloud.com/adamfiregate/" target="_blank">Mixcloud</a> |
         <a href="//www.facebook.com/adamfiregate" target="_blank">Facebook</a>
         </p>
         <p>&mdash;</p>
-        <p><strong>MORE:</strong> I discovered electronic music in 1999 and listened to artists like Tiësto, Rank1, Bad Company, Prodigy and Hybrid. I started doing tracks with computer (the first one was a breaks trance crossover) in 2001.</p>
+        <p><strong>MORE:</strong> I discovered electronic music in 1999 and listened to artists like Tiësto, Rank1, ATB, Bad Company, Prodigy and Hybrid. I started doing tracks with computer (the first one was a breaks trance crossover) in 2001.</p>
 
         <p>At a young age I learned how to play piano and later guitar, so I think this why I prefer melodies. In 2008 I revisited music theory and studied music composition. When it comes to music making, I do all the phases such as
           production, sound design, mixing, and mastering.</p>
@@ -49,6 +50,7 @@
       <li>drum and bass</li>
       <li>downtempo</li>
       <li>soundtrack</li>
+      <li>meditation music</li>
       </ul>
 
       <h2>Labels</h2>
