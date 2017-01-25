@@ -39,7 +39,17 @@
 
       <h2>Genres</h2>
 
-      <p>Depending on my mood I do various music: house, techno, trance, breaks, electronica, drum and bass, downtempo</p>
+      <p>Depending on my mood I do various music:</p>
+      <ul>
+      <li>house</li>
+      <li>techno</li>
+      <li>trance</li>
+      <li>breaks</li>
+      <li>electronica</li>
+      <li>drum and bass</li>
+      <li>downtempo</li>
+      <li>soundtrack</li>
+      </ul>
 
       <h2>Labels</h2>
       <p>Since 2010 I got releases on labels such as</p>
