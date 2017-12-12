@@ -1,9 +1,11 @@
+<?php include_once 'meta.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Adam Firegate</title>
+  <meta name="description" content="<?php echo meta_desc(); ?>"/>
+  <title>Adam Firegate — European electronic musician</title>
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
   <style>
     html, body {
@@ -13,8 +15,14 @@
     body {
       color: purple;
       font-family: 'Source Sans Pro', sans-serif;
-      font-size: 1.25rem;
+      font-size: 1.35rem;
       line-height: 1.5;
+    }
+    h2 {
+      margin: 3rem 0 1rem;
+    }
+    p {
+      margin: 0 0 1.5rem;
     }
     .group:after {
       content: "";
@@ -22,13 +30,16 @@
       clear: both;
     }
     .profile-pic {
-      float: left;
+      clear: both;
+      display: block;
+      float: none;
       margin: 0 1rem 1rem 0;
-      max-width: 90%;
+      max-width: 80%;
     }
-    @media (min-width: 480px) {
+    @media (min-width: 560px) {
       .profile-pic {
-        max-width: none;
+        float: left;
+        max-width: 40%;
       }
     }
     .center {
@@ -43,8 +54,8 @@
     }
     .main {
       margin: 4rem auto 0;
-      max-width: 950px;
-      padding: 0 .6rem;
+      max-width: 750px;
+      padding: 0 .7rem;
     }
     .head-link-to-cover {
       font-size: 3rem;
@@ -61,6 +72,10 @@
     }
     a:link {
       color: purple;
+    }
+    a:hover,
+    a:focus {
+      outline: 2px dotted purple;
     }
     input {
       font-family: 'Source Sans Pro', sans-serif;
