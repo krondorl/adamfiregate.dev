@@ -12,10 +12,11 @@
     </svg>
     <h1>Hello! I'm Adam Firegate — European electronic musician</h1>
     <h2>Download 1 GB of Free Music from me!</h2>
+    <p>I create mostly deep and progressive house tracks since 2001.</p>
     <form action="">
       <input type="email" name="" id="" placeholder="email"><input type="submit" class="submit" value="Download!">
     </form>
-    <h3><a href="/more.php">Continue to website</a></h3>
+    <h3><a href="/more.php">Read more about my music project</a></h3>
   </main>
 
 <?php include_once 'layout/footer.php'; ?>
