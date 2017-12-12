@@ -1,6 +1,6 @@
 <?php include_once 'meta.php'; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" id="top">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -109,6 +109,10 @@
     }
     .more {
       background: url('/img/main-bg.svg') 50% 0;
+    }
+    .jump-top {
+      display: block;
+      text-align: right;
     }
   </style>
 </head>

@@ -97,6 +97,15 @@
       <h2>Collaborations</h2>
       <p>My regular partner in music making is <a href="https://soundcloud.com/deepsec" target="_blank" rel="noopener">Deepsec</a>. We also make music under the name <a href="https://www.facebook.com/secdamproject/" target="_blank" rel="noopener">SecDam Project</a>.</p>
 
+      <h2>Inspiration</h2>
+      <p>Apart from various things in life, nowadays I'm inspired by these musics:</p>
+      <ul>
+        <li><a href="https://www.youtube.com/user/anjunadeep" target="_blank" rel="noopener">Anjunadeep</a></li>
+        <li><a href="https://www.youtube.com/watch?v=_WhCIHBgJ-o" target="_blank" rel="noopener">Guy J</a></li>
+        <li><a href="https://www.youtube.com/watch?v=oChLcTI--FM" target="_blank" rel="noopener">Robert Babicz</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Y3Jd1AnSOyM" target="_blank" rel="noopener">Quivver</a></li>
+      </ul>
+
       <h2>Selected Kit List</h2>
       <p>I use these tools for all my work:</p>
       <ul>
@@ -114,6 +123,9 @@
 
       <p>Since 2013 <a href="https://tutsplus.com/authors/adam-burucs" target="_blank" rel="noopener">I write articles about music making</a>, sound design, mixing and mastering for <a href="https://tutsplus.com/" target="_blank" rel="noopener">Envato Tuts+</a>.</p>
 
+      <h2>Mixing and mastering</h2>
+      <p>I do post production services for any kind of music. <a href="https://www.facebook.com/afmastering" target="_blank" rel="noopener">Send me a Facebook message</a> if you need something!</p>
+
       <h2>Logo</h2>
       <p>The spiral logo symbolises development, evolution and creativity.</p>
 
@@ -125,6 +137,7 @@
       </ul>
 
       <hr>
+      <a class="jump-top" href="#top">Jump to top of the page</a>
       <div class="center">
         <h2>Download</h2>
         <p>Get 1 GB of Free Music from me!</p>
