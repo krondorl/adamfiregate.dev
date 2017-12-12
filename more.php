@@ -105,6 +105,7 @@
         <li><a href="http://mackie.com/products/mrmk3-series" target="_blank" rel="noopener">Mackie MR5 mk3</a></li>
         <li><a href="http://www.audio-technica.com/cms/headphones/f39784ce643a82e6/" target="_blank" rel="noopener">Audio Technica ATH-R70X</a></li>
         <li><a href="https://www.steinberg.net/en/products/discontinued_hardware/ur22.html" target="_blank" rel="noopener">Steinberg UR22 mk1</a></li>
+        <li><a href="http://miditech.de/en-130-produkte-midistart-music-25" target="_blank" rel="noopener">midistart music 25</a></li>
         <li><a href="https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-h1-handy-recorder/" target="_blank" rel="noopener">Zoom H1</a></li>
         <li><a href="http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone" target="_blank" rel="noopener">Shure SM58S</a></li>
       </ul>
