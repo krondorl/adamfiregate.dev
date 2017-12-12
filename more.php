@@ -29,7 +29,7 @@
           <a href="https://twitter.com/adamfiregate" target="_blank" rel="noopener">Twitter</a>
         </p>
         <p>&mdash;</p>
-        <p><strong>MORE:</strong> The very first music I can remember — when I was 7 years old — was Michael Jackson - Bad. I immediately started to dance when I heard it on TV. Later I discovered electronic music in 1997. I listened to artists like</p>
+        <p><strong>MORE:</strong> The very first music I can remember — when I was 7 years old — was <a href="https://www.youtube.com/watch?v=dsUXAEzaC3Q" target="_blank" rel="noopener">Michael Jackson - Bad</a>. I immediately started to dance when I heard it on TV. Later I discovered electronic music in 1997. I listened to artists like</p>
         <ul>
           <li><a href="https://www.youtube.com/watch?v=qycAC_6Bbto" target="_blank" rel="noopener">Tiësto</a>,</li>
           <li><a href="https://www.youtube.com/watch?v=ypDtUUtuNzQ" target="_blank" rel="noopener">Rank1</a>,</li>
@@ -41,7 +41,7 @@
           <li><a href="https://www.youtube.com/watch?v=d_lEhZsawpg" target="_blank" rel="noopener">Hybrid</a>.</li>
         </ul>
 
-        <p>I started doing tracks with computer (the first one was a breaks trance crossover) in 2001. At a young age I learned how to play piano and later guitar. So I think this why I prefer melody focused music. In 2008 I revisited music theory and studied music composition. When it comes to music making, I do all the phases such as:</p>
+        <p>I started doing tracks in 2001. The first one was a breaks-trance crossover. At a young age I learned how to play piano and later guitar. So I think this why I prefer melody focused music. In 2008 I revisited music theory and studied music composition. When it comes to music making, I do all the phases such as:</p>
         <ul>
           <li>production,</li>
           <li>sound design,</li>
