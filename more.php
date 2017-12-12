@@ -16,6 +16,23 @@
       </a>
 
       <h1>About</h1>
+
+      <h2>Table of Contents</h2>
+      <ul>
+        <li><a href="#story">Story</a></li>
+        <li><a href="#support">Support</a></li>
+        <li><a href="#genre">Genre</a></li>
+        <li><a href="#labels">Labels</a></li>
+        <li><a href="#collaborations">Collaborations</a></li>
+        <li><a href="#inspirations">Inspirations</a></li>
+        <li><a href="#selected-kit-list">Selected Kit List</a></li>
+        <li><a href="#tutorials">Tutorials</a></li>
+        <li><a href="#mixing-and-mastering">Mixing and Mastering</a></li>
+        <li><a href="#logo">Logo</a></li>
+        <li><a href="#core-values">Core Values</a></li>
+      </ul>
+
+      <h2 id="story">Story</h2>
       <div class="group">
         <img class="profile-pic" src="/img/adam-2016-januar-1x.jpg " alt="Adam profile picture">
         <p><strong>TLDR:</strong> I am an electronic musician from Europe, Hungary, Budapest. I began making tracks in 2001.</p>
@@ -31,15 +48,17 @@
         <p>&mdash;</p>
         <p><strong>MORE:</strong> The very first music I can remember — when I was 7 years old — was <a href="https://www.youtube.com/watch?v=dsUXAEzaC3Q" target="_blank" rel="noopener">Michael Jackson - Bad</a>. I immediately started to dance when I heard it on TV. Later I discovered electronic music in 1997. I listened to artists like</p>
         <ul>
-          <li><a href="https://www.youtube.com/watch?v=qycAC_6Bbto" target="_blank" rel="noopener">Tiësto</a>,</li>
-          <li><a href="https://www.youtube.com/watch?v=ypDtUUtuNzQ" target="_blank" rel="noopener">Rank1</a>,</li>
-          <li><a href="https://www.youtube.com/watch?v=ri6Efk1SPJc" target="_blank" rel="noopener">ATB</a>,</li>
-          <li><a href="https://www.youtube.com/watch?v=o2Vh4lGRNoQ" target="_blank" rel="noopener">Bad Company UK</a>,</li>
+          <li><a href="https://www.youtube.com/watch?v=qycAC_6Bbto" target="_blank" rel="noopener">Tiësto</a></li>
+          <li><a href="https://www.youtube.com/watch?v=ypDtUUtuNzQ" target="_blank" rel="noopener">Rank1</a></li>
+          <li><a href="https://www.youtube.com/watch?v=ri6Efk1SPJc" target="_blank" rel="noopener">ATB</a></li>
+          <li><a href="https://www.youtube.com/watch?v=o2Vh4lGRNoQ" target="_blank" rel="noopener">Bad Company UK</a></li>
           <li>
             <a href="https://www.youtube.com/watch?v=wmin5WkOuPw" target="_blank" rel="noopener">Prodigy</a>
           </li>
-          <li><a href="https://www.youtube.com/watch?v=d_lEhZsawpg" target="_blank" rel="noopener">Hybrid</a>.</li>
+          <li><a href="https://www.youtube.com/watch?v=d_lEhZsawpg" target="_blank" rel="noopener">Hybrid</a></li>
         </ul>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NYCFBKie6b8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
         <p>I started doing tracks in 2001. The first one was a breaks-trance crossover. At a young age I learned how to play piano and later guitar. So I think this why I prefer melody focused music. In 2008 I revisited music theory and studied music composition. When it comes to music making, I do all the phases such as:</p>
         <ul>
@@ -48,10 +67,12 @@
           <li>mixing,</li>
           <li>and mastering.</li>
         </ul>
+        <p>My dream was to have musics released at labels. In 2010 I achieved this. I also got a lot of other releases on various labels since.</p>
         <p>I come from a musical, intellectual family. My father plays the guitar and my sister plays piano. Both my parents are teachers in the family enterprise.</p>
+        <p>For me composing music is about flow, self-expression and practical spirituality. I feel very fortunate to be able to make music.</p>
       </div>
 
-      <h2>Support</h2>
+      <h2 id="support">Support</h2>
       <p>My tracks got support from:</p>
       <ul>
         <li>Gai Barone</li>
@@ -62,11 +83,11 @@
       </ul>
 
 
-      <h2>Genre</h2>
+      <h2 id="genre">Genre</h2>
 
       <p>With the Adam Firegate project I focus mainly on deep and progressive house.</p>
 
-      <h2>Labels</h2>
+      <h2 id="labels">Labels</h2>
       <p>Since 2010 I got releases on labels such as</p>
       <ul>
         <li>Abstract Space</li>
@@ -94,10 +115,12 @@
         <li>AWAL</li>
       </ul>
 
-      <h2>Collaborations</h2>
+      <h2 id="collaborations">Collaborations</h2>
       <p>My regular partner in music making is <a href="https://soundcloud.com/deepsec" target="_blank" rel="noopener">Deepsec</a>. We also make music under the name <a href="https://www.facebook.com/secdamproject/" target="_blank" rel="noopener">SecDam Project</a>.</p>
 
-      <h2>Inspiration</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/dOeXQx_kuU4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+      <h2 id="inspirations">Inspirations</h2>
       <p>Apart from various things in life, nowadays I'm inspired by these musics:</p>
       <ul>
         <li><a href="https://www.youtube.com/user/anjunadeep" target="_blank" rel="noopener">Anjunadeep</a></li>
@@ -106,7 +129,7 @@
         <li><a href="https://www.youtube.com/watch?v=Y3Jd1AnSOyM" target="_blank" rel="noopener">Quivver</a></li>
       </ul>
 
-      <h2>Selected Kit List</h2>
+      <h2 id="selected-kit-list">Selected Kit List</h2>
       <p>I use these tools for all my work:</p>
       <ul>
         <li><a href="https://www.ableton.com/en/live/" target="_blank" rel="noopener">Ableton Suite 9</a></li>
@@ -119,25 +142,30 @@
         <li><a href="http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone" target="_blank" rel="noopener">Shure SM58S</a></li>
       </ul>
 
-      <h2>Tutorials</h2>
+      <h2 id="tutorials">Tutorials</h2>
 
       <p>Since 2013 <a href="https://tutsplus.com/authors/adam-burucs" target="_blank" rel="noopener">I write articles about music making</a>, sound design, mixing and mastering for <a href="https://tutsplus.com/" target="_blank" rel="noopener">Envato Tuts+</a>.</p>
 
-      <h2>Mixing and mastering</h2>
+      <h2 id="mixing-and-mastering">Mixing and mastering</h2>
       <p>I do post production services for any kind of music. <a href="https://www.facebook.com/afmastering" target="_blank" rel="noopener">Send me a Facebook message</a> if you need something!</p>
 
-      <h2>Logo</h2>
+      <h2 id="logo">Logo</h2>
       <p>The spiral logo symbolises development, evolution and creativity.</p>
 
-      <h2>Core Values</h2>
+      <h2 id="core-values">Core Values</h2>
       <ul>
         <li>creativity</li>
         <li>timelessness</li>
         <li>diversity</li>
       </ul>
-
+      <a href="https://www.facebook.com/adamfiregate" target="_blank" rel="noopener">Facebook</a> |
+      <a href="https://www.youtube.com/user/AdamFiregate/videos" target="_blank" rel="noopener">Youtube</a> |
+      <a href="https://www.beatport.com/artist/adam-firegate/142173/tracks/" target="_blank" rel="noopener">Beatport</a> |
+      <a href="https://soundcloud.com/adamfiregate/" target="_blank" rel="noopener">Soundcloud</a> |
+      <a href="https://www.mixcloud.com/adamfiregate/" target="_blank" rel="noopener">Mixcloud</a> |
+      <a href="https://twitter.com/adamfiregate" target="_blank" rel="noopener">Twitter</a>
       <hr>
-      <a class="jump-top" href="#top">Jump to top of the page</a>
+      <a class="jump-top" href="#top">Jump to top of the page &UpTeeArrow;</a>
       <div class="center">
         <h2>Download</h2>
         <p>Get 1 GB of Free Music from me!</p>
