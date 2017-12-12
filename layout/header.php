@@ -77,6 +77,10 @@
     a:focus {
       outline: 2px dotted purple;
     }
+    a:active {
+      background: purple;
+      color: white;
+    }
     input {
       font-family: 'Source Sans Pro', sans-serif;
       font-size: 1rem;
